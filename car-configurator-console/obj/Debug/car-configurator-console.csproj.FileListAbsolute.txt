@@ -1,0 +1,9 @@
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\bin\Debug\car_configurator_console.exe
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\bin\Debug\car_configurator_console.pdb
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\obj\Debug\car-configurator-console.csprojAssemblyReference.cache
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\obj\Debug\car-configurator-console.csproj.CoreCompileInputs.cache
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\obj\Debug\car_configurator_console.exe
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\obj\Debug\car_configurator_console.pdb
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\bin\Debug\INIFileParser.dll
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\bin\Debug\INIFileParser.xml
+C:\Users\zhaxa\RiderProjects\car-configurator-console\car-configurator-console\obj\Debug\car-configurator-console.csproj.CopyComplete
